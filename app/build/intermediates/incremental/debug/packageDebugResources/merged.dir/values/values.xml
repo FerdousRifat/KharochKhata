@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="categories">
+        <item>Food</item>
+        <item>Transport</item>
+        <item>Shopping</item>
+        <item>Bills</item>
+        <item>Health</item>
+        <item>Education</item>
+        <item>Entertainment</item>
+        <item>Other</item>
+    </string-array>
+    <color name="accent">#F2A33A</color>
+    <color name="background">#F5F8F6</color>
+    <color name="danger">#C0392B</color>
+    <color name="primary">#1B7F5C</color>
+    <color name="primary_dark">#136346</color>
+    <color name="surface">#FFFFFF</color>
+    <color name="text_primary">#1D2B26</color>
+    <color name="text_secondary">#5F6F68</color>
+    <color name="white">#FFFFFF</color>
+    <string name="add_title">Add expense</string>
+    <string name="app_name">KharochKhata</string>
+    <string name="btn_camera">Camera</string>
+    <string name="btn_cancel">Cancel</string>
+    <string name="btn_delete">Delete</string>
+    <string name="btn_edit">Edit</string>
+    <string name="btn_gallery">Gallery</string>
+    <string name="btn_login">Log in</string>
+    <string name="btn_register">Create account</string>
+    <string name="btn_remove_photo">Remove photo</string>
+    <string name="btn_save">Save</string>
+    <string name="btn_share">Share</string>
+    <string name="cd_add">Add expense</string>
+    <string name="cd_delete">Delete expense</string>
+    <string name="cd_has_photo">Has a receipt photo</string>
+    <string name="cd_logo">KharochKhata logo</string>
+    <string name="cd_receipt">Receipt photo</string>
+    <string name="currency_symbol">৳</string>
+    <string name="default_web_client_id" translatable="false">414213487591-di6f6dsikqu2lbi5o2fqnsd6hoa43svs.apps.googleusercontent.com</string>
+    <string name="detail_title">Expense details</string>
+    <string name="dialog_delete_message">\"%1$s\" will be removed permanently.</string>
+    <string name="dialog_delete_title">Delete expense?</string>
+    <string name="dialog_logout_message">You will need to log in again.</string>
+    <string name="dialog_logout_title">Log out?</string>
+    <string name="edit_title">Edit expense</string>
+    <string name="empty_list">No expenses yet.\nTap + or shake your phone to add one.</string>
+    <string name="error_amount_big">Amount is too large</string>
+    <string name="error_amount_invalid">Enter an amount greater than 0</string>
+    <string name="error_amount_required">Amount is required</string>
+    <string name="error_confirm_mismatch">Passwords do not match</string>
+    <string name="error_email_invalid">Enter a valid email</string>
+    <string name="error_email_required">Email is required</string>
+    <string name="error_name_required">Name is required</string>
+    <string name="error_password_required">Password is required</string>
+    <string name="error_password_short">Password must be at least 6 characters</string>
+    <string name="error_title_required">Title is required</string>
+    <string name="firebase_database_url" translatable="false">https://kharochkhata-default-rtdb.asia-southeast1.firebasedatabase.app</string>
+    <string name="gcm_defaultSenderId" translatable="false">414213487591</string>
+    <string name="google_api_key" translatable="false">AIzaSyDdeoDKHraRx7eGNjmBvKeUXLNG1NVNTxA</string>
+    <string name="google_app_id" translatable="false">1:414213487591:android:382eaa2e9884902a055b42</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDdeoDKHraRx7eGNjmBvKeUXLNG1NVNTxA</string>
+    <string name="google_storage_bucket" translatable="false">kharochkhata.firebasestorage.app</string>
+    <string name="help_url">https://support.google.com/android</string>
+    <string name="hint_amount">Amount</string>
+    <string name="hint_confirm_password">Confirm password</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_name">Your name</string>
+    <string name="hint_note">Note (optional)</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_title">What did you spend on?</string>
+    <string name="label_category">Category</string>
+    <string name="label_date">Date</string>
+    <string name="label_note">Note</string>
+    <string name="label_receipt">Receipt photo (optional)</string>
+    <string name="link_login">Already have an account? Log in</string>
+    <string name="link_register">New here? Create an account</string>
+    <string name="login_subtitle">Log in to see your expenses</string>
+    <string name="login_title">Welcome back</string>
+    <string name="menu_help">Help</string>
+    <string name="menu_logout">Log out</string>
+    <string name="msg_delete_failed">Could not delete: %1$s</string>
+    <string name="msg_deleted">Expense deleted</string>
+    <string name="msg_load_failed">Could not load data: %1$s</string>
+    <string name="msg_login_failed">Login failed: %1$s</string>
+    <string name="msg_no_app">No app found to open this</string>
+    <string name="msg_no_camera">No camera app found on this device</string>
+    <string name="msg_not_logged_in">Please log in again</string>
+    <string name="msg_photo_failed">Could not load the photo</string>
+    <string name="msg_register_failed">Registration failed: %1$s</string>
+    <string name="msg_save_failed">Could not save: %1$s</string>
+    <string name="msg_saved">Expense saved</string>
+    <string name="msg_updated">Expense updated</string>
+    <string name="msg_welcome">Hello, %1$s</string>
+    <string name="no_note">No note</string>
+    <string name="project_id" translatable="false">kharochkhata</string>
+    <string name="register_subtitle">It takes less than a minute</string>
+    <string name="register_title">Create account</string>
+    <string name="remember_me">Remember me</string>
+    <string name="share_body">Expense: %1$s\nAmount: %2$s\nCategory: %3$s\nDate: %4$s\nNote: %5$s</string>
+    <string name="share_chooser">Share expense via</string>
+    <string name="share_subject">Expense from KharochKhata</string>
+    <string name="tagline">Know where your money goes</string>
+    <string name="total_spent">Total spent</string>
+    <style name="Theme.KharochKhata" parent="Theme.Material3.Light.NoActionBar">
+        <item name="colorPrimary">@color/primary</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="colorSecondary">@color/accent</item>
+        <item name="android:windowBackground">@color/background</item>
+        <item name="android:statusBarColor">@color/primary_dark</item>
+        <item name="android:textColorPrimary">@color/text_primary</item>
+    </style>
+    <style name="Theme.KharochKhata.Splash">
+        <item name="android:windowBackground">@color/primary</item>
+    </style>
+</resources>

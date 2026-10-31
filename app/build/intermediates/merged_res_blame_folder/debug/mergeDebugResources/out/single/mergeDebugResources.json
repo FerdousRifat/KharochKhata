@@ -1,0 +1,86 @@
+[
+    {
+        "merged": "com.kharochkhata.app-debug-41:/drawable_ic_back.xml.flat",
+        "source": "com.kharochkhata.app-main-43:/drawable/ic_back.xml"
+    },
+    {
+        "merged": "com.kharochkhata.app-debug-41:/drawable_ic_camera.xml.flat",
+        "source": "com.kharochkhata.app-main-43:/drawable/ic_camera.xml"
+    },
+    {
+        "merged": "com.kharochkhata.app-debug-41:/layout_activity_register.xml.flat",
+        "source": "com.kharochkhata.app-main-43:/layout/activity_register.xml"
+    },
+    {
+        "merged": "com.kharochkhata.app-debug-41:/drawable_ic_help.xml.flat",
+        "source": "com.kharochkhata.app-main-43:/drawable/ic_help.xml"
+    },
+    {
+        "merged": "com.kharochkhata.app-debug-41:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.kharochkhata.app-main-43:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.kharochkhata.app-debug-41:/drawable_ic_edit.xml.flat",
+        "source": "com.kharochkhata.app-main-43:/drawable/ic_edit.xml"
+    },
+    {
+        "merged": "com.kharochkhata.app-debug-41:/layout_activity_main.xml.flat",
+        "source": "com.kharochkhata.app-main-43:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.kharochkhata.app-debug-41:/drawable_ic_logout.xml.flat",
+        "source": "com.kharochkhata.app-main-43:/drawable/ic_logout.xml"
+    },
+    {
+        "merged": "com.kharochkhata.app-debug-41:/drawable_ic_photo.xml.flat",
+        "source": "com.kharochkhata.app-main-43:/drawable/ic_photo.xml"
+    },
+    {
+        "merged": "com.kharochkhata.app-debug-41:/drawable_ic_delete.xml.flat",
+        "source": "com.kharochkhata.app-main-43:/drawable/ic_delete.xml"
+    },
+    {
+        "merged": "com.kharochkhata.app-debug-41:/layout_activity_login.xml.flat",
+        "source": "com.kharochkhata.app-main-43:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.kharochkhata.app-debug-41:/layout_activity_splash.xml.flat",
+        "source": "com.kharochkhata.app-main-43:/layout/activity_splash.xml"
+    },
+    {
+        "merged": "com.kharochkhata.app-debug-41:/drawable_ic_share.xml.flat",
+        "source": "com.kharochkhata.app-main-43:/drawable/ic_share.xml"
+    },
+    {
+        "merged": "com.kharochkhata.app-debug-41:/layout_item_expense.xml.flat",
+        "source": "com.kharochkhata.app-main-43:/layout/item_expense.xml"
+    },
+    {
+        "merged": "com.kharochkhata.app-debug-41:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.kharochkhata.app-main-43:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.kharochkhata.app-debug-41:/menu_menu_main.xml.flat",
+        "source": "com.kharochkhata.app-main-43:/menu/menu_main.xml"
+    },
+    {
+        "merged": "com.kharochkhata.app-debug-41:/drawable_ic_gallery.xml.flat",
+        "source": "com.kharochkhata.app-main-43:/drawable/ic_gallery.xml"
+    },
+    {
+        "merged": "com.kharochkhata.app-debug-41:/layout_activity_add_edit_expense.xml.flat",
+        "source": "com.kharochkhata.app-main-43:/layout/activity_add_edit_expense.xml"
+    },
+    {
+        "merged": "com.kharochkhata.app-debug-41:/drawable_ic_add.xml.flat",
+        "source": "com.kharochkhata.app-main-43:/drawable/ic_add.xml"
+    },
+    {
+        "merged": "com.kharochkhata.app-debug-41:/layout_activity_expense_detail.xml.flat",
+        "source": "com.kharochkhata.app-main-43:/layout/activity_expense_detail.xml"
+    },
+    {
+        "merged": "com.kharochkhata.app-debug-41:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.kharochkhata.app-main-43:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    }
+]

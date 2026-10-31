@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "414213487591",
+    "firebase_url": "https://kharochkhata-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "kharochkhata",
+    "storage_bucket": "kharochkhata.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:414213487591:android:382eaa2e9884902a055b42",
+        "android_client_info": {
+          "package_name": "com.kharochkhata.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "414213487591-di6f6dsikqu2lbi5o2fqnsd6hoa43svs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdeoDKHraRx7eGNjmBvKeUXLNG1NVNTxA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "414213487591-di6f6dsikqu2lbi5o2fqnsd6hoa43svs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
