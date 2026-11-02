@@ -3,27 +3,27 @@
 A personal expense tracker for Android. Log what you spend, attach a receipt photo, see your running total, and share any expense with a friend.
 
 - **Course:** Mobile Application and Development Lab (0613-410), Final Lab Project
-- **Student:** YOUR NAME (ID: YOUR ID)
+- **Student:** SM Ferdous Oahid Rifat (Roll:58, Batch:85)
 - **Tech:** Android Studio, Java + XML, Firebase Authentication, Firebase Realtime Database
 
 ## Features
 
 All 12 required features are used for a real purpose in the app.
 
-| # | Feature | Where in the app |
-|---|---|---|
-| 1 | 6 screens with navigation | Splash, Login, Register, Home, Add/Edit, Expense Details (Intents + `putExtra()`) |
-| 2 | Layouts and basic views | ConstraintLayout, LinearLayout, TextView, ImageView, Button, CardView |
-| 3 | Input validation | Login, Register, Add/Edit forms use `setError()`, nothing crashes on empty or wrong input |
-| 4 | Model class | `Expense.java` |
-| 5 | Scrolling list | Home screen, `RecyclerView` + `ExpenseAdapter` + `ViewHolder` |
-| 6 | CRUD with dialog and FAB | FAB adds, tap to view, Edit button edits, `AlertDialog` confirms delete |
-| 7 | Firebase login | Register, login, logout, stay logged in |
-| 8 | Real-time database | Home list updates by itself when data changes (`ValueEventListener`) |
-| 9 | Saved setting | "Remember me" on the Login screen (`SharedPreferences`) |
-| 10 | Photo | Receipt photo from camera or gallery, shown on the form and detail screen |
-| 11 | Sensor | Shake the phone on Home to open Add Expense (accelerometer) |
-| 12 | Open another app | Share an expense (`ACTION_SEND`), Help menu opens a web link (`ACTION_VIEW`) |
+| #   | Feature                   | Where in the app                                                                          |
+| --- | ------------------------- | ----------------------------------------------------------------------------------------- |
+| 1   | 6 screens with navigation | Splash, Login, Register, Home, Add/Edit, Expense Details (Intents + `putExtra()`)         |
+| 2   | Layouts and basic views   | ConstraintLayout, LinearLayout, TextView, ImageView, Button, CardView                     |
+| 3   | Input validation          | Login, Register, Add/Edit forms use `setError()`, nothing crashes on empty or wrong input |
+| 4   | Model class               | `Expense.java`                                                                            |
+| 5   | Scrolling list            | Home screen, `RecyclerView` + `ExpenseAdapter` + `ViewHolder`                             |
+| 6   | CRUD with dialog and FAB  | FAB adds, tap to view, Edit button edits, `AlertDialog` confirms delete                   |
+| 7   | Firebase login            | Register, login, logout, stay logged in                                                   |
+| 8   | Real-time database        | Home list updates by itself when data changes (`ValueEventListener`)                      |
+| 9   | Saved setting             | "Remember me" on the Login screen (`SharedPreferences`)                                   |
+| 10  | Photo                     | Receipt photo from camera or gallery, shown on the form and detail screen                 |
+| 11  | Sensor                    | Shake the phone on Home to open Add Expense (accelerometer)                               |
+| 12  | Open another app          | Share an expense (`ACTION_SEND`), Help menu opens a web link (`ACTION_VIEW`)              |
 
 Also: custom name and icon, Material Design 3 theme, SnackBar and Toast messages.
 
@@ -50,6 +50,7 @@ Also: custom name and icon, Material Design 3 theme, SnackBar and Toast messages
    ```
 
    Press **Publish**. Each user can now read and write only their own data.
+
 7. Run the app on an emulator or a real Android phone (Android 8.0 / API 26 or newer).
 
 To test the shake sensor on the emulator: **... (Extended controls) > Virtual sensors > Move** and shake.
