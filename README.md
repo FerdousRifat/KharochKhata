@@ -3,7 +3,7 @@
 A personal expense tracker for Android. Log what you spend, attach a receipt photo, see your running total, and share any expense with a friend.
 
 - **Course:** Mobile Application and Development Lab (0613-410), Final Lab Project
-- **Student:** SM Ferdous Oahid Rifat (Roll:58, Batch:85)
+- **Student:** S.M. Ferdous Oahid Rifat (Roll:58, Batch:85)
 - **Tech:** Android Studio, Java + XML, Firebase Authentication, Firebase Realtime Database
 
 ## Features
