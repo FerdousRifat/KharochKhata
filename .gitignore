@@ -9,3 +9,6 @@
 .cxx
 *.apk
 *.aab
+gradle.propertie
+PROJECT_PLAN.md
+REPORT_OUTLINE.md
