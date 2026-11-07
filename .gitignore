@@ -3,12 +3,11 @@
 /local.properties
 /.idea/
 .DS_Store
-/build
+build/
 /captures
 .externalNativeBuild
 .cxx
 *.apk
 *.aab
-gradle.propertie
 PROJECT_PLAN.md
 REPORT_OUTLINE.md
